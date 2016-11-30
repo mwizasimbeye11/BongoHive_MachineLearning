@@ -1,2 +1,4 @@
-# BongoHive_MachineLearning
-y = mx + b
+# BongoHive Machine Learning Session - Introduction to ML
+by Mwiza Simbeye.
+
+
