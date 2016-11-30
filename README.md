@@ -17,3 +17,5 @@ export PATH="$PATH:/Users/your_user/Library/Python/3.5/bin"
 # Ubuntu & Debian
 sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 
+# Some cool datasets
+http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets
